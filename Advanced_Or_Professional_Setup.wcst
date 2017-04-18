@@ -1,0 +1,133 @@
+<document unique_id="D7209A9E-269C-400A-8E90-C21B4AF0D4FE" version="6" os="macosx" original_document_path="/Users/fvde/Documents/Advanced_Or_Professional.wcst">
+	<open_windows>
+		<vamWindowGlass frame="714,-902,2410,-185" asset_icon_scale="0.6" asset_icon_updateFPS="15" selected_layer="1836282928" vam_main_splitter="0.65"/>
+	</open_windows>
+	<vam_state master_audio_shown="1000" show_preview_edit_panel="1" preview_shown="1" live_shown="1" live_preview_split_open_percent="0.75" master_audio_mute="0" master_audio_monitor="1" preview_audio_monitor="0" transition_selected="0" transition_0_unique_id="CISwipeTransition" transition_1_unique_id="-- SMOOTH --" transition_2_unique_id="-- SMOOTH --"/>
+	<transition_data/>
+	<chroma_key_data/>
+	<advanced_output>
+		<output_list output_last_selected="9EFE5785-7B02-4496-99CE-8DC23D7549C3">
+			<output output_type="2" output_branding="youtube" output_display_group_name="YouTube" output_display_name="Netlight Streaming" output_guid="BBF7CAFB-F20C-4F57-BD20-71BA63973D50" unique_id="1" output_presetname="YouTube: 720p30 x264 Recommended (1.75 Mbps)" use_backup="0" yt_end_v1_ad_enabled="0" start_event_upon_streaming="0" output_enabled="1" destination_location_id="a9Rs/e1qdSPtzLdeOfYr7Flj1Ufqs5ufSNq9nDiyTl+MulHM3xXAZzaxQa8xtlEktaIGa9ZmhsKM0ne9FVtdJ+/rl+rYjXM=0272" destination_update_id="Dmd9R2k8zrtfeAjcqwhitaOZLUWQOIAcwgTgxRy+YFZ81sfDn6TreKJdlIef0220" output_password="1/7U_5UcbkiJ11M6utzbTtW0AXei0AAiGEtkrtKdCO-9k" output_username="Netlight" event_id="aKz8SIW-Jbw" output_url="rtmp://a.rtmp.youtube.com/live2" output_location="x31d-zf0y-af4z-135k" youtube_title="Netlight Livestream" selected_event_index="0" output_location_with_bitrate="x31d-zf0y-af4z-135k" output_user_name="Netlight Streaming" output_settings_complete="1" output_id="9EFE5785-7B02-4496-99CE-8DC23D7549C3"/>
+			<output replay_quality="standard" replay_audio_enabled="0" replay_record_folder="/Users/fvde/Movies" replay_limit_record_duration="1" replaydialog_record_unit="1" replay_max_record_duration="60000" replay_shot_default_duration="30" replay_create_in_layer="1" replay_create_in_playlist="" replay_show_preview="1" replay_shot_template_asset_id="" replay_create_from_template="0" replay_activate_on_broadcast="0" replay_activate_on_record="0" replay_prompt_delete_shot="1" replay_keep_record_on_delete_shot="0" replay_program_replay_enabled="0" output_guid="C2A81404-75FD-4B61-8FC5-AE2D335C97A6" output_presetname="C2A81404-75FD-4B61-8FC5-AE2D335C97A6" output_type="6" output_enabled="1" unique_id="2"/>
+		</output_list>
+	</advanced_output>
+	<output_presets>
+		<preset output_presetname="YouTube: 720p30 x264 Recommended (1.75 Mbps)">
+			<movie format="Flash" output_system="">
+				<track mo_width="1280" mo_height="720" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="x264" fps="30" compressed="1" timescale="3000" target_bit_rate="1750" profile="1835100526" limit_bit_rate="0" key_frame_rate="60" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="--bframes 2" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100"/>
+			</movie>
+		</preset>
+		<preset output_presetname="C2A81404-75FD-4B61-8FC5-AE2D335C97A6">
+			<movie format="Replay" output_system="replay">
+				<track mo_width="640" mo_height="480" type="1986618479" colourspace="846624121" mo_enabled="1" codecname="H.264" fps="30" compressed="1" timescale="3000" target_bit_rate="500" profile="1835100526" limit_bit_rate="0" key_frame_rate="240" timecode_interval="30" timecode_on="0" FlashVideoDisableH264BFrames="0" codec_quality="" x264_gpu_on="0" x264_commandline="" absolute_time_stamps="0" key_frame_aligned="0" strict_cbr="0" main_concept="1"/>
+				<track type="1635083375" bps="16" busses="1" channels="2" samplerate="44100" mo_enabled="1" codecname="MPEG-4 Audio" target_bit_rate="128" timescale="44100"/>
+			</movie>
+		</preset>
+	</output_presets>
+	<iso_outputs>
+		<xml_tag/>
+	</iso_outputs>
+	<volume value="0.376506"/>
+	<preview_volume value="0.376506"/>
+	<auto_live value="0"/>
+	<flip_flop value="0"/>
+	<output_annotations/>
+	<transition_duration/>
+	<visual_style/>
+	<single_output/>
+	<media_directories import_images_default_dir="/Users/fvde/Pictures" import_music_default_dir="/Users/fvde/Music/iTunes/iTunes Media/Music/Unknown Artist/Unknown Album" import_video_default_dir="/Users/fvde/Downloads"/>
+	<layer_names/>
+	<layer_scales layer_0="0.5" layer_1="0.5" layer_2="0.5" layer_3="0.5" layer_4="0.5"/>
+	<layer_visible layer_2="1"/>
+	<sections/>
+	<aspectRatio type="1098216515" custom_width="1280" custom_height="720"/>
+	<shot_key_map/>
+	<shotsLiveWhenSaved>
+		<xml_tag vaLayerIndex="0" beLayerEnum="1" vaLayerEnum="1836282928" unique_id="4D08CB0F-B71B-40E9-94FD-9E10F813A5D5_shot"/>
+		<xml_tag vaLayerIndex="1" beLayerEnum="2" vaLayerEnum="1836282929" unique_id="AE487A63-31B3-4188-9D0E-01099942C485_shot"/>
+		<xml_tag vaLayerIndex="2" beLayerEnum="3" vaLayerEnum="1836282930" unique_id="5574E2FE-8E52-423A-AE35-82F089189F09_shot"/>
+	</shotsLiveWhenSaved>
+	<source_sdk_settings/>
+	<social_media/>
+	<source_configurations>
+		<source unique_id="AF1A7BA9-9508-4EC8-BE2B-1F3FD3F8CB57" factoryGUID="508D5209-D017-B9F7-CC2C-F85260449272" manuallyAddedSource="1" localizedDisplayName="Text" localizedGroupingName="Text" hasAudio="0" hasVideo="1" groupGUID="508D5209-D017-B9F7-CC2C-F85260449272" prettyname="Starting soon">
+			<xml_tag title="Text" web_url="file:///Applications/Wirecast.app/Contents/PlugIns/Sources/WidgetSDK/text/text.html" web_transparent="1" web_override_css="" web_shutdown_when_inactive="0" widget_settings="{&quot;fontSelection&quot;:&quot;'Lucida Sans Unicode', 'Lucida Grande', sans-serif&quot;,&quot;fontSize&quot;:&quot;In-Punkte&quot;,&quot;fontSizeInPoints&quot;:&quot;64&quot;,&quot;fontWeight&quot;:&quot;400&quot;,&quot;fontStyle&quot;:&quot;normal&quot;,&quot;fontVariant&quot;:&quot;normal&quot;,&quot;webFontUrl&quot;:&quot;http://fonts.googleapis.com/css?family=Cinzel:400,700&quot;,&quot;systemFont&quot;:&quot;Arial&quot;,&quot;gradientEnabled&quot;:true,&quot;gradientType&quot;:0,&quot;gradientAngle&quot;:&quot;0&quot;,&quot;solidEnabled&quot;:false,&quot;shadowOffsetAngle&quot;:&quot;360&quot;,&quot;shadowOffsetRadius&quot;:&quot;0&quot;,&quot;shadowBlur&quot;:&quot;25&quot;,&quot;shadowEnabled&quot;:true,&quot;textLayout&quot;:&quot;p_vertical&quot;,&quot;justify_content&quot;:&quot;center&quot;,&quot;align_items&quot;:&quot;center&quot;,&quot;scrolling&quot;:{&quot;enabled&quot;:true,&quot;animation&quot;:&quot;Ohne Unterbrechung&quot;,&quot;direction&quot;:&quot;ORTHOGONAL&quot;,&quot;speed&quot;:&quot;60&quot;,&quot;slidetime&quot;:&quot;0.6428&quot;,&quot;holdtime&quot;:&quot;3&quot;,&quot;autoreverse&quot;:false},&quot;colors&quot;:{&quot;listingColor&quot;:&quot;rgba(143, 54, 143, 0.79)&quot;,&quot;backgroundColor&quot;:&quot;rgba(255, 107, 52, 0)&quot;,&quot;shadowColor&quot;:&quot;#000000&quot;,&quot;gradientColor1&quot;:&quot;#ffffff&quot;,&quot;gradientColor2&quot;:&quot;#ffffff&quot;},&quot;linewrap&quot;:true,&quot;wrap_option_id&quot;:&quot;WORD_WRAP&quot;,&quot;_template_exclude&quot;:[&quot;text_filepath&quot;],&quot;text_source&quot;:&quot;TEXT&quot;,&quot;transition&quot;:false,&quot;transition_id&quot;:&quot;CROSS_FADE&quot;,&quot;transition_sec&quot;:&quot;0.5&quot;,&quot;_renderer&quot;:{&quot;width_constrained&quot;:true,&quot;height_constrained&quot;:true,&quot;client_width&quot;:1980,&quot;client_height&quot;:1080,&quot;geometry&quot;:{&quot;width&quot;:550,&quot;height&quot;:100},&quot;constrained_geometry&quot;:{&quot;width&quot;:1980,&quot;height&quot;:1080},&quot;constrained_width_geometry&quot;:{&quot;width&quot;:1980,&quot;height&quot;:100}},&quot;text&quot;:&quot;U3RhcnRpbmclQzIlQTBzb29u&quot;,&quot;_runtime&quot;:{&quot;geometry&quot;:{&quot;width&quot;:250,&quot;height&quot;:892}}}" width_constrained="1" height_constrained="1" isGameshow="0" isUstream="0" web_width="1980" web_height="1080" constrained_width="1980" constrained_height="1080"/>
+		</source>
+		<source unique_id="0E4FB569-5EE4-42BA-A5D2-E992749D98C5" factoryGUID="A7A3A83A-5B57-4d84-8650-3CC5E05D46EF" manuallyAddedSource="1" localizedDisplayName="Entfernter Desktop Presenter" localizedGroupingName="Entfernter Desktop Presenter" hasAudio="1" hasVideo="1" groupGUID="A7A3A83A-5B57-4d84-8650-3CC5E05D46EF" prettyname="Presenter Computer">
+			<xml_tag isGameshow="0" isUstream="0" autoDiscovered="0" ip="" unique_id="0E4FB569-5EE4-42BA-A5D2-E992749D98C5" name="Entfernter Desktop Presenter" use_audio="1" use_video="1"/>
+		</source>
+	</source_configurations>
+	<document_thumbnail thumbnail="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"/>
+	<game_overlay_position/>
+	<screename/>
+	<assets>
+		<asset name="Ebene löschen" unique_id="4D08CB0F-B71B-40E9-94FD-9E10F813A5D5_shot" type="shot" media-type="9" vam_state="3" created_for_layer="5" blank_shot="1" sort_on_text="0"/>
+		<asset name="Ebene löschen" unique_id="AE487A63-31B3-4188-9D0E-01099942C485_shot" type="shot" media-type="9" vam_state="3" created_for_layer="1" blank_shot="1" sort_on_overlay="0"/>
+		<asset name="Ebene löschen" unique_id="DBB1DD8D-7775-4E2E-A215-9E087537B794_shot" type="shot" media-type="9" vam_state="1" created_for_layer="2" blank_shot="1" sort_on_normal="0"/>
+		<asset name="Ebene löschen" unique_id="944B2282-E6FF-44C9-A3B3-7810F5107065_shot" type="shot" media-type="9" vam_state="1" created_for_layer="3" blank_shot="1" sort_on_underlay="0"/>
+		<asset name="Ebene löschen" unique_id="55086B00-E31B-4E53-B577-E04E48DF126F_shot" type="shot" media-type="9" vam_state="1" created_for_layer="4" blank_shot="1"/>
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="0E4FB569-5EE4-42BA-A5D2-E992749D98C5" name="Presenter Computer" video_tracks="1" audio_tracks="1" sourceGUID="A7A3A83A-5B57-4d84-8650-3CC5E05D46EF"/>
+		<asset name="Presentation" unique_id="74962B4D-F195-4AEE-A712-B1DDFD8A5852_shot" type="shot" media-type="9" vam_state="12" still_image_tracks="0" veil_track_count="0" audio_tracks="1" alpha_track_count="1" video_tracks="2" created_for_layer="1"/>
+		<asset media-type="2" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="Systemgerät~FaceTime HD-Kamera (integriert) Video" name="Speaker Camera" video_tracks="1" audio_tracks="0" alpha_track_count="1" sourceGUID="D9F98C08-68BB-7D52-4624-086C6550D85E" square_pixel_width="1280" square_pixel_height="720"/>
+		<asset name="test_moving.mp4" url="/Users/fvde/Downloads/test_moving.mp4" type="file" video_tracks="1" media-type="1" unique_id="2E972084-C8FB-44D5-9F3D-A2B9176F3A2C_test_moving.mp4" timescale="600" duration="4832" square_pixel_height="1080" square_pixel_width="1920"/>
+		<asset name="Introduction" unique_id="4D4C372B-D05A-4E25-847C-866D18BDDBA4_shot" type="shot" media-type="9" vam_state="4" created_for_layer="5" veil_track_count="0" alpha_track_count="0" video_tracks="1" audio_tracks="0" still_image_tracks="0"/>
+		<asset name="Audience" unique_id="551B6765-0C0D-42D2-8372-C1AD9C2C94F9_shot" type="shot" media-type="9" vam_state="8" veil_track_count="0" alpha_track_count="1" audio_tracks="1" video_tracks="1" still_image_tracks="0" created_for_layer="1"/>
+		<asset media-type="3" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="Systemgerät~Mikrofon (integriert) Audio" name="Mikrofon (integriert) Audio" video_tracks="0" audio_tracks="1" sourceGUID="D9F98C08-68BB-7D52-4624-086C6550D85E"/>
+		<asset media-type="3" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="pc-audio-capture~System Audio Capture" name="Audio Input" video_tracks="0" audio_tracks="1" sourceGUID="F5E735BC-09C6-EE3E-1003-0BB38045D978"/>
+		<asset media-type="4" type="vaSourcesManager" url="vaSourcesManager::URL" unique_id="Systemgerät~Ferdinands iPhone" name="Audience Camera" video_tracks="1" audio_tracks="1" alpha_track_count="1" sourceGUID="D9F98C08-68BB-7D52-4624-086C6550D85E"/>
+		<asset name="stream_ending.mp4" url="/Users/fvde/Downloads/stream_ending.mp4" type="file" video_tracks="1" media-type="1" unique_id="C353996F-E168-4A5A-882D-F576ABAEFF70_stream_ending.mp4" timescale="600" duration="4832" square_pixel_height="1080" square_pixel_width="1920"/>
+		<asset name="End" unique_id="5574E2FE-8E52-423A-AE35-82F089189F09_shot" type="shot" media-type="9" vam_state="6" created_for_layer="2" still_image_tracks="0" alpha_track_count="0" video_tracks="1" audio_tracks="0" veil_track_count="0"/>
+	</assets>
+	<chroma_key_configurations>
+		<chroma_key_configuration unique_id="30D84043-38E5-4A50-A2A9-3123E3F6E1FA" timestamp="3" ck_active="0" ck_key_cb="158" ck_key_cr="160" ck_key_cutoff="1.3" ck_edge_blend_active="1" ck_luma_clip_hi="225" ck_black_clip="0" ck_source_encoding="1095911234" ck_source_encoding_width="0" ck_user_color="1" ck_configured="1" chroma_config_id="983"/>
+		<chroma_key_configuration unique_id="pc-capture~90C887E8-D0A0-41AF-8C5E-55D5AEB09FD8" timestamp="3" ck_active="0" ck_key_cb="138" ck_key_cr="118" ck_key_cutoff="1.3" ck_edge_blend_active="1" ck_luma_clip_hi="225" ck_black_clip="0" ck_source_encoding="1095911234" ck_source_encoding_width="0" ck_user_color="1" ck_configured="1" chroma_config_id="984"/>
+	</chroma_key_configurations>
+	<shots>
+		<shot event_type="2" unique_id="4D08CB0F-B71B-40E9-94FD-9E10F813A5D5_shot"/>
+		<shot event_type="2" unique_id="AE487A63-31B3-4188-9D0E-01099942C485_shot"/>
+		<shot event_type="2" unique_id="DBB1DD8D-7775-4E2E-A215-9E087537B794_shot"/>
+		<shot event_type="2" unique_id="944B2282-E6FF-44C9-A3B3-7810F5107065_shot"/>
+		<shot event_type="2" unique_id="55086B00-E31B-4E53-B577-E04E48DF126F_shot"/>
+		<shot event_type="2" virtualsetzoom="0" template_uuid="91550E48-A580-46FB-B949-CBF8494344FA" unique_id="74962B4D-F195-4AEE-A712-B1DDFD8A5852_shot">
+			<event event_type="4" zorder="1" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_user_scale="3,3" ro_respect_aspect_ratio="0" unique_id="0E4FB569-5EE4-42BA-A5D2-E992749D98C5">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+			<event event_type="4" zorder="6" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.336449,0.336449" obj_scale="0.336449,0.336449" obj_pos="2.24303,-1.45321" unique_id="Systemgerät~FaceTime HD-Kamera (integriert) Video">
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+			<event event_type="4" zorder="11" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" obj_trans="0" unique_id="pc-audio-capture~System Audio Capture">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="4D4C372B-D05A-4E25-847C-866D18BDDBA4_shot">
+			<event event_type="4" zorder="1" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.666667,0.666667" unique_id="2E972084-C8FB-44D5-9F3D-A2B9176F3A2C_test_moving.mp4">
+					<event event_type="1" default_action="2" play_flags="6" channel_id="1" ro_media_type="1986618479" ro_playhead="3973342" action_time="2063000000" action_duration="0" action_flags="24"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="551B6765-0C0D-42D2-8372-C1AD9C2C94F9_shot">
+			<event event_type="4" zorder="5" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_user_scale="3,3" ro_respect_aspect_ratio="0" unique_id="Systemgerät~Ferdinands iPhone">
+					<event event_type="1" channel_id="1" ro_media_type="1635083375"/>
+					<event event_type="1" channel_id="1" ro_media_type="1986618479"/>
+				</event>
+			</event>
+		</shot>
+		<shot event_type="2" unique_id="5574E2FE-8E52-423A-AE35-82F089189F09_shot">
+			<event event_type="4" zorder="1" unique_id="one_quad">
+				<event event_type="2" channel_id="1" respect_actual_size="1" ro_respect_aspect_ratio="1" ro_user_scale="0.666667,0.666667" unique_id="C353996F-E168-4A5A-882D-F576ABAEFF70_stream_ending.mp4">
+					<event event_type="1" default_action="2" play_flags="6" channel_id="1" ro_media_type="1986618479" ro_playhead="4733335" action_time="2788066667" action_duration="0" action_flags="24"/>
+				</event>
+			</event>
+		</shot>
+	</shots>
+</document>
